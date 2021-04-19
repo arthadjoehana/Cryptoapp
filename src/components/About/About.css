@@ -1,0 +1,13 @@
+
+
+.profile {
+    position: absolute;
+    margin: 250px 200px 0 700px;
+    padding : 10px 10px 10px 100px;
+}
+
+.profile h1 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
